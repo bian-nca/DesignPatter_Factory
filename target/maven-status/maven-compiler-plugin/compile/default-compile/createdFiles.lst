@@ -1,0 +1,6 @@
+com\mycompany\desingpatter_factory\DesingPatter_Factory.class
+modelo\Orcamento.class
+PatterFactory\IcmsFactory.class
+PatterFactory\CalculoPorRegiao.class
+PatterFactory\icmsMG.class
+PatterFactory\icmsSP.class
